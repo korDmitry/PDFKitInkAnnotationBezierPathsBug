@@ -19,7 +19,7 @@ The return value is nil.
 
 Version/Build:
 
-iOS 11.0 +
+iOS 11.0-11.4.1 (Fixed in iOS 12.0)
 
 Configuration:
 
